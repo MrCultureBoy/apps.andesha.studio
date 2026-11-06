@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://apps.andesha.studio/sitemap.xml
